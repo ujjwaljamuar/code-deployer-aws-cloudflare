@@ -3,7 +3,11 @@ This is a NODE JS Project built to build and deploy any react or javascript appl
 
 ## PROJECT-DEMO
 
-https://github.com/ujjwaljamuar/code-deployer-aws-cloudflare/assets/56722405/497b8547-64db-47ac-a485-ac0a8eb47d77
+
+https://github.com/ujjwaljamuar/code-deployer-aws-cloudflare/assets/56722405/8d94d618-d25b-4617-bd90-394e05009e3b
+
+
+
 
 ## PROJECT-ARCHITECTURE
 ![CODE-DEPLOYER](https://github.com/ujjwaljamuar/code-deployer-aws-cloudflare/assets/56722405/341f2264-b201-4aca-8819-971fcda7d4e4)
